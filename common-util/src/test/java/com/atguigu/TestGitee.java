@@ -7,4 +7,8 @@ public class TestGitee {
     public void testGitee(){
         System.out.println("Test.Gitee三部合一");
     }
+     @Test
+    public void testGitee2(){
+        System.out.println("Test.Gitee三部合一");
+    }
 }
